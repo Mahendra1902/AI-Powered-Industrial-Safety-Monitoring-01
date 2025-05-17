@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+datetime
+langchain
+langchain-google-genai
+faiss-cpu
+huggingface-hub
+transformers
+torch
+google-api-python-client
+tqdm
+sentence-transformers
+langchain_community
